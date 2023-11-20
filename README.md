@@ -10,8 +10,10 @@ You can access the required files via the following in this repository
 2. MySQL: ray-referendum-mid.sql
 3. Presentation: RayPham - IronHack - Referendum.pdf
 4. Tableau: https://public.tableau.com/app/profile/ray.pham/viz/ray-referendum-ironhack/AustraliaMap
+5. Trello: https://trello.com/b/R9S219AF/bootcamp-project
 
 All the necessary CSV and datasets are included with the cleaned versions available in the root folder.
+
 
 ### Background
 
